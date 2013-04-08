@@ -1,4 +1,4 @@
 WPTheme
 =======
 
-Base WordPressTheme
+Grid based WordPress theme
